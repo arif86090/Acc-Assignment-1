@@ -1,0 +1,34 @@
+[
+   {
+        "id": "1",
+        "gender": "male",
+        "name": "emon",
+        "contact": "01722761605",
+        "address": "dinajpur",
+        "photoUrl": "https://randomuser.me/api/portraits/med/men/69.jpg"
+    },
+    {
+        "id": "2",
+        "gender": "male",
+        "name": "maik",
+        "contact": "017249345495",
+        "address": "Rangpur",
+        "photoUrl": "https://randomuser.me/api/portraits/med/men/69.jpg"
+    },
+    {
+        "id": "3",
+        "gender": "female",
+        "name": "Sayma",
+        "contact": "01779890945",
+        "address": "Dhaka",
+        "photoUrl": "https://randomuser.me/api/portraits/med/men/69.jpg"
+    },
+    {
+        "id": "4",
+        "gender": "female",
+        "name": "PoriMoni",
+        "contact": "01787573545",
+        "address": "Dhaka",
+        "photoUrl": "https://randomuser.me/api/portraits/med/men/69.jpg"
+    }
+]
